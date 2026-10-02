@@ -1,6 +1,6 @@
 # Yagi Optimiser (NEC2++ + Differential Evolution)
 
-**v1.0.039** — Dave Headland — https://github.com/45south
+**v1.0.042** — Dave Headland — https://github.com/45south
 
 Searches element lengths, spacings, and (optionally) stacking heights for
 a Yagi — multiple reflectors, one driven element, multiple directors —
